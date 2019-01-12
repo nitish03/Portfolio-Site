@@ -2,8 +2,6 @@
 
 Udacity Front-End Nanodegree Project 1
 
-See the live project here https://nitish03.github.io/Portfolio-Site/
-
 ## Project Overview
 
 This project is provided by [Udacity](https://www.udacity.com/). It follows Udacity [project rubrics](https://review.udacity.com/#!/rubrics/45/view) which requires :
