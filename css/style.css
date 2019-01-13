@@ -56,6 +56,10 @@
   color: #7d97ad;
 }
 
+#work {
+  background: #2d3c49;
+}
+
 .responsive-img{
   width: 100%;
 }
@@ -68,9 +72,8 @@
  a{
   text-align: center;
   text-decoration: none;
-  /*text-transform: uppercase;*/
   font-size: 24px;
-  color: #2d3c49;
+  color: #fff;
 }
 
 .grid a:hover{
@@ -100,6 +103,10 @@
   color: #2d76b0;
 }
 
+.fa-github-square {
+  color: #24292e;
+}
+
 .fa-twitter{
   color: #45a0ec;
 }
@@ -110,9 +117,6 @@
 
 .project, .bottom{
   padding: 10px 0;
-}
-.project {
-  background: #eee;
 }
 /* Breakpoints */
 
