@@ -88,6 +88,16 @@
   color: #7d97ad;
 }
 
+.bottom p {
+  text-transform: uppercase;
+  font-size: 0.7em;
+  color: #2d3c49;
+}
+
+ul {
+  padding: 0;
+}
+
 .icon li{
   display: inline-flex;
   list-style: none;
