@@ -141,7 +141,14 @@ ul {
     width: 400px
   }
 }
-@media screen and (min-width: 690px) {
+
+@media screen and (min-width: 601px) and (max-width: 999px){
+  .pic img {
+    height: 400px;
+  }
+}
+
+@media screen and (min-width: 600px) {
   #work{
     display: flex;
     flex-wrap: wrap;
