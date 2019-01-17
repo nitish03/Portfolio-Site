@@ -137,14 +137,15 @@ ul {
 }
 @media screen and (max-width: 500px){
   .pic img{
-    height: 300px;
-    width: 400px
+    height: 275px;
+    width: 400px;
+    border-radius: 50%
   }
 }
 
 @media screen and (min-width: 601px) and (max-width: 999px){
   .pic img {
-    height: 400px;
+    height: 375px;
   }
 }
 
