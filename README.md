@@ -2,6 +2,8 @@
 
 Udacity Front-End Nanodegree Project 1
 
+This project has been modified after completing the Udacity Front End Web Developer Nanodegree program.
+
 ## Project Overview
 
 This project is provided by [Udacity](https://www.udacity.com/). It follows Udacity [project rubrics](https://review.udacity.com/#!/rubrics/45/view) which requires :
